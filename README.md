@@ -1,17 +1,37 @@
-# Om Jangan Ommmmmmmm
+Terus Mencoba Walau Akhirnya Selalu Error :(
 
 <img align="center" src="https://github-cardname.caliph.my.id/api?name=Zeltoria&description=Hi%20Sis,%20I%27m%20Zeltoria.%20My%20Skills%20Are%20just%20Copy%20And%20Paste,%20That%27s%20Nothing%20More&image=https://avatars.githubusercontent.com/Zeltoria&usqp=CAU&backgroundColor=%23ecf0f1&github=Zeltoria&instagram=danilelistz02&pattern=rain&colorPattern=%23eaeaea&site=Nothing%20In%20Here"/>
 
 -----
-  <p align="center">
-<img src="https://media.tenor.com/GYjYgE-UCEgAAAAd/shinobu-kocho-dance.gif" alt="RadBot" width="300"/>
-
+<h3 align="left">Visitor</h3>
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@zeltoria?theme=rule34" alt="visitor.svg">
 </p>
-<p align="center"> <a href="https://instagram.com/danilelistz02"> <img src="https://readme-typing-svg.herokuapp.com?size=24&width=400&lines=Mencoba+Walau+Akhirnya+Error" alt="Zeltoria" /> </a> </p>
- 
- </br>
 
-<p align='center'>
-  <a href="https://wa.me/62895627413377"><img height="50" src="https://telegra.ph/file/21808c9fd44a31898a43a.png"></a>
-  <a href="https://facebook.com/danilelistz19"><img height="50" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>
+<h3 align="left">Contact Me:</h3>
+<p align="left"><a href="https://instagram.com/danilelistz02" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
+<p align="left"><a href="//youtube.com/@zeltoria"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
 </p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=zeltoria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=false" /></a>
+</p> 
+
+<p align="left">
+  <a href="https://github.com/zeltoria"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeltoria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+</p>
+
+<p align="left">
+<a href="//github.com/zeltoria"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltoria"></a>
+</p>
+<h3>Support Me :</h3>
+<p align="center">
+<a href="https://wa.me/6285776353741?text=assalamualaikum" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+</p>
+
+<!-- <h3 align="left">Listening Music</h3>
+<p align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX7i7SKKuAK4o?si=KwEgMrM7SbyqwuLH4ZgJdw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+-->
