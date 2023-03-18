@@ -10,7 +10,7 @@ Terus Mencoba Coding Walau Akhirnya Akan Selalu Error :(
 
 <h3 align="left">Contact Me:</h3>
 <p align="left"><a href="https://instagram.com/danilelistz02" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="//youtube.com/@zeltoria"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
+<p align="left"><a href="//facebook.com/zeltoriaid"><img src="https://storage.caliph.my.id/img/facebook.svg" height="30" width="30" /></a>
 </p>
 
 <p align="left">
