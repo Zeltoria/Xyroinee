@@ -26,7 +26,7 @@ Terus Mencoba Coding Walau Akhirnya Akan Selalu Error :(
 </p>
 <h3>Support Me :</h3>
 <p align="center">
-<a href="https://wa.me/6285776353741?text=assalamualaikum" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+<a href="https://saweria.co/zeltoria" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 </p>
 
 <!-- <h3 align="left">Listening Music</h3>
