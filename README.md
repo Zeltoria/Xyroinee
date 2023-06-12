@@ -1,6 +1,4 @@
 <p align='center'>
-       <!--<img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" /> -->
-        <br>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=FERDIZ-afk.FERDIZ-afk??style=for-the-badge&logo=appveyor"></a><br>
   <a href="https://xyroinee.xyz"><img src="https://c4.wallpaperflare.com/wallpaper/8/566/387/anime-girl-loli-blonde-teddy-bear-wallpaper-preview.jpg" /><a>
   <!--<a href="https://github.com/FERDIZ-afk"><img src="https://cardivo.vercel.app/api?name=Eva%20nur&description=Saya ingin dia datang kepada saya Jika dia benar-benar tertarik, dia tidak akan main-main. Dia akan terus melihat Anda dan lebih sering tersenyum. Ini bukan tiba-tiba—ini lampu hijau Anda untuk berbicara dengannya.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>-->
