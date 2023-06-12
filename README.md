@@ -1,6 +1,6 @@
 Terus Mencoba Coding Walau Akhirnya Akan Selalu Error :(
 
-<img align="center" src="https://github-cardname.caliph.my.id/api?name=Zeltoria&description=Hi%20Sis,%20I%27m%20Zeltoria.%20My%20Skills%20Are%20just%20Copy%20And%20Paste,%20That%27s%20Nothing%20More&image=https://avatars.githubusercontent.com/Zeltoria&usqp=CAU&backgroundColor=%23ecf0f1&github=Zeltoria&instagram=danilelistz02&pattern=rain&colorPattern=%23eaeaea&site=Nothing%20In%20Here"/>
+<img align="center" src="https://c4.wallpaperflare.com/wallpaper/8/566/387/anime-girl-loli-blonde-teddy-bear-wallpaper-preview.jpg"/>
 
 -----
 <h3 align="left">Visitor</h3>
@@ -8,30 +8,47 @@ Terus Mencoba Coding Walau Akhirnya Akan Selalu Error :(
 <img src="https://count.caliphdev.my.id/get/@zeltoria?theme=rule34" alt="visitor.svg">
 </p>
 
-<h3 align="left">Contact Me:</h3>
-<p align="left"><a href="https://instagram.com/danilelistz02" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="//facebook.com/zeltoriaid"><img src="https://storage.caliph.my.id/img/facebook.svg" height="30" width="30" /></a>
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=zeltoria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=false" /></a>
-</p> 
-
-<p align="left">
-  <a href="https://github.com/zeltoria"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeltoria&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
-</p>
-
-<p align="left">
-<a href="//github.com/zeltoria"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltoria"></a>
-</p>
-<h3>Support Me :</h3>
 <p align="center">
-<a href="https://saweria.co/zeltoria" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-</p>
-
-<!-- <h3 align="left">Listening Music</h3>
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX7i7SKKuAK4o?si=KwEgMrM7SbyqwuLH4ZgJdw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<a href="#"><img title="FERDIZ-afk" src="https://img.shields.io/badge/FERDIZ_afk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<br>
+<!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FFERDIZ-afk" alt="PENGGUNJUNG GITHUB"-->
+<p align='center'>
+  <a href="https://github.com/FERDIZ-afk"><img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me//6287877173955"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://Instagram.com/ferdiz_afk"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
--->
+___
+
+### [`Biodata`](https://xyroinee.xyz/)
+```
+Intro = {
+"Fullname": "Muhammad Danil Elistz",
+"Nickname": "Xyro",
+"Status": "Seorang Penyendiri Yang Lebih Hidup Di Dunia Virtual ",
+"Address": "Medan, Sumatra Utara, Indonesia",
+"Age": "....",
+"Birthday": "...."
+}
+```
+___
+
+
+<p align="center">
+<!--a href="https://ferdiz-api.herokuapp.com/"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FERDIZ afk-orange.svg?style=for-the-badge&logo=github"></a-->
+</p>
+
+<h3>Languages Skill :</h3>
+<br>
+<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=FERDIZ-afk&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p-->
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=FERDIZ-afk&show_icons=true&theme=radical" alt="FERDIZ-afk" /></p>
+
+<p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="FERDIZ-afk" /></p>
+
+# Donate
+<p align="center" width=100%><img src="https://svgur.com/i/Vtt.svg">
+
+</p>
+<ul><li><a href="https://saweria.co/Zeltoria">Saweria</a></li><li><a href="https://trakteer.id/Zeltoria/tip">Trakteer</a></li></ul>
